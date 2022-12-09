@@ -1,16 +1,5 @@
 # flutter_list
 
-A new Flutter project.
+Create List and Grid (with builder) according to device orientation
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="348" alt="Capture d’écran 2022-12-09 à 08 02 53" src="https://user-images.githubusercontent.com/18366294/206644752-0246db72-aae9-4018-9850-4881813076d0.png">
